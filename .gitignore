@@ -20,7 +20,6 @@ models/saved/
 
 # 训练日志
 log/
-*.txt
 
 # 生成的论文文档
 *.docx
