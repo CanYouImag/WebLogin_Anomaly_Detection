@@ -1,0 +1,26 @@
+# 虚拟环境
+.venv/
+
+# IDE
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+
+# 原始数据（CIC-IDS2017 CSV 文件体积大，不提交）
+data/raw/
+
+# 预处理后的数据（可重新生成）
+data/processed/*.csv
+
+# 模型权重与预测结果
+models/saved/
+*.pth
+*.pkl
+
+# 训练日志
+log/
+*.txt
+
+# 生成的论文文档
+*.docx
