@@ -62,8 +62,6 @@ python src/train.py
 ```bash
 # 单条预测
 python src/predict.py
-
-# 批量预测（修改 predict.py 中的输入CSV路径）
 ```
 
 ## 实验结果
