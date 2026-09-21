@@ -12,6 +12,8 @@ data/raw/
 
 # 预处理后的数据（可重新生成）
 data/processed/*.csv
+data/processed/*.parquet
+*.parquet
 
 # 模型权重与预测结果
 models/saved/

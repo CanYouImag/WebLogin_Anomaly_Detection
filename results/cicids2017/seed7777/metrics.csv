@@ -1,0 +1,3 @@
+model,time,accuracy,precision_macro,recall_macro,f1_macro,f1_micro,f1_weighted,auc_ovr_macro
+MVT-2Soft,14125.0939,0.9953,0.8008,0.8774,0.8232,0.9953,0.9958,0.9940
+MVT-Joint,31904.4572,0.9956,0.8589,0.9123,0.8677,0.9956,0.9958,0.9993

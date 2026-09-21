@@ -1,0 +1,27 @@
+
+============================================================
+Dataset: cicids2017
+============================================================
+  samples=2827876, features=78, classes=13
+    model         time  accuracy  precision_macro  recall_macro  f1_macro  f1_micro  f1_weighted  auc_ovr_macro
+MVT-2Soft 16268.681856  0.994846         0.802807      0.864097  0.781746  0.994846     0.995157       0.996090
+MVT-Joint 12463.486006  0.992174         0.746331      0.879928  0.778416  0.992174     0.993435       0.996592
+    model         time  accuracy  precision_macro  recall_macro  f1_macro  f1_micro  f1_weighted  auc_ovr_macro
+MVT-2Soft 17826.780217  0.995585         0.804985      0.880644  0.821429  0.995585     0.995867       0.995790
+MVT-Joint 13177.485546  0.993041         0.752406      0.853408  0.774125  0.993041     0.994181       0.996727
+    model         time  accuracy  precision_macro  recall_macro  f1_macro  f1_micro  f1_weighted  auc_ovr_macro
+MVT-2Soft 17857.444228  0.995670         0.842912      0.901253  0.823529  0.995670     0.995919       0.998010
+MVT-Joint 20410.432544  0.992974         0.755688      0.898517  0.791516  0.992974     0.993968       0.999104
+    model         time  accuracy  precision_macro  recall_macro  f1_macro  f1_micro  f1_weighted  auc_ovr_macro
+MVT-2Soft 14490.961116  0.994735         0.813786      0.903744  0.833030  0.994735     0.995160       0.996278
+MVT-Joint 28123.024539  0.995330         0.830531      0.903597  0.844104  0.995330     0.995557       0.996252
+    model         time  accuracy  precision_macro  recall_macro  f1_macro  f1_micro  f1_weighted  auc_ovr_macro
+MVT-2Soft 14125.093867  0.995315         0.800827      0.877448  0.823208  0.995315     0.995806       0.994008
+MVT-Joint 31904.457235  0.995608         0.858860      0.912345  0.867653  0.995608     0.995787       0.999336
+
+============================================================
+Full results: C:\Users\11831\PycharmProjects\WebLogin_Anomaly_Detection\src\..\results\summary.csv
+============================================================
+      dataset      model    mean     std
+0  cicids2017  MVT-2Soft  0.8166  0.0200
+1  cicids2017  MVT-Joint  0.8112  0.0421

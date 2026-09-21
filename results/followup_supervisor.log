@@ -1,0 +1,21 @@
+[2026-09-15 11:16:43] supervisor started
+[2026-09-17 21:01:02] TEST-DIRECT
+[21:02:39] SELF-TEST begin (30s sleep)
+[21:03:09] SELF-TEST done after 30s
+[21:03:19] LOOP-60s start
+[21:03:49] tick1: ALIVE cpu=216.6h
+[21:04:19] tick2: ALIVE cpu=216.7h
+[21:04:19] loop-exit after 60s
+[2026-09-17 21:04:29] MONITOR-150min start
+[2026-09-17 21:34:29] tick1 ALIVE cpu=219.6h wall=37.2h
+[2026-09-17 22:04:29] tick2 ALIVE cpu=222.6h wall=37.7h
+[2026-09-17 22:34:29] tick3 ALIVE cpu=225.5h wall=38.2h
+[2026-09-17 23:04:29] tick4 ALIVE cpu=228.5h wall=38.7h
+[2026-09-17 23:34:29] tick5 ALIVE cpu=231.4h wall=39.2h
+[2026-09-17 23:34:29] MONITOR-150min exit after 2.5h
+[2026-09-18 00:04:53] tick6 ALIVE cpu=234.4h wall=39.7h
+[2026-09-18 00:34:53] tick7 ALIVE cpu=237.3h wall=40.2h
+[2026-09-18 01:04:53] tick8 ALIVE cpu=240.2h wall=40.7h
+[2026-09-18 01:34:53] tick9 ALIVE cpu=243.2h wall=41.2h
+[2026-09-18 02:04:53] tick10 ENDED; seed7777 metrics written 09/18/2026 01:51:34
+[2026-09-18 02:04:53] MONITOR-150min exit after 2.5h
